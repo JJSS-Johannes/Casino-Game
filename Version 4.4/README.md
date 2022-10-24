@@ -10,6 +10,9 @@
 - (Double Click Start.bat)
 - Execute Casino_4.4.exe
 
+# Changelog:
+- New Roulette Game
+
 # How To Play:
 - Login with a username, with this username your money will be saved
 - Select one of the 6 games
