@@ -2,7 +2,7 @@
 - https://discord.gg/WahFF8jXW5 
 
 # Requirements:
-- (Python 3)(You can just Run Casino_4.4.exe)
+- (Python 3)(You can just execute Casino_4.4.exe)
 - (Pip)
 
 # Run:
